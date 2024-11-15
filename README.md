@@ -1,6 +1,9 @@
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
+Developed by: Divya R
 
+Registeration Number : 212222040040
 
+Date:23/9/24
 ## AIM:
 
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
@@ -30,8 +33,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: Divya R
-Registeration Number : 212222040040
+
 */
 ```
 ## Activity_main.xml
